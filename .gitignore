@@ -1,3 +1,4 @@
 Cargo.lock
+.gitignore
 Cargo.toml
 target/
